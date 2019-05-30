@@ -13,7 +13,7 @@ Pull requests are welcome.
 3. ???
 4. Profit
 
-If on GNOME or similar you should be able to take advantage of your new powers immediately.  Otherwise, you can use something like [playerctl](https://github.com/acrisci/playerctl), perhaps bind it to a key or `XF86AudioPlay` and the like if your keyboard has them.
+If on GNOME or similar you should be able to take advantage of your new powers immediately.  Otherwise, you can use something like [playerctl](https://github.com/acrisci/playerctl) or [mpris2controller](https://github.com/icasdri/mpris2controller), perhaps bind it to a key or `XF86AudioPlay` and the like if your keyboard has them.
 ## Similar Projects
 * [plasma-browser-integration](https://github.com/KDE/plasma-browser-integration)
   It's more general as it works on `<audio>` and `<video>` elements, though it misses out on some of the more "advanced" capabilities, such as cover art support.
